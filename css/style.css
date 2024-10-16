@@ -1,0 +1,18 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(2, 145, 2);
+}
+
+.navbar{
+    margin-top: 20px;
+  
+}
+
+.nav-link.active{
+    font-weight: 700;
+}
+
+.nav-link{
+    font-weight: 700;
+    font-size: 16px;
+}
