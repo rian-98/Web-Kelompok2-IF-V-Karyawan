@@ -5,7 +5,7 @@ body {
 /* Navbar Style */
 
 .navbar {
-    margin-top: 20px;
+    background-color: rgb(19, 80, 0);
 
 }
 
@@ -70,4 +70,19 @@ body {
     margin-left: 700px;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+
+.carousel-caption {
+    background-color: rgb(0, 46, 18);
+    border-radius: 20px;
+}
+
+.card {
+    margin: 15px;
+}
+
+.footer {
+    background-color: rgb(19, 80, 0);
+    padding: 4px;
 }
