@@ -41,7 +41,7 @@ body {
 
 
 .hero {
-    /* https://images.unsplash.com/photo-1543157145-f78c636d023d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80 */
+
     background: url('http://localhost/storage/cover.jpg');
     background-position: top left;
     background-size: cover;

@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img src="assets/rgl.jpg" class="d-block w-100" alt="" height="650px">
+                    <img src="storage/rgl.jpg" class="d-block w-100" alt="" height="650px">
                     <div class="carousel-caption d-none d-md-block">
                         <h3><b>KELAS REGULER</b></h3>
                         <p>Adalah program perkuliahan yang mengikuti jadwal standar dan kurikulum umum, yang biasanya
@@ -113,7 +113,7 @@
                                 mengundang...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/10/alumni-stt-cipasung-meraih-penghargaan-sebagai-peserta-dan-capstone-terbaik-baparekraf-digital-talent/"
-                                    class="btn btn-next">Selengkapnya</a>
+                                    class="btn btn-next" target="blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
@@ -130,7 +130,7 @@
                                 dihadiri...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/10/wisuda-angkatan-2020-sekolah-tinggi-teknologi-cipasung/"
-                                    class="btn btn-next">Selengkapnya</a>
+                                    class="btn btn-next" target="blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
@@ -147,7 +147,7 @@
                                 cipasung. Ada 12 kampus yang terdata sebagai...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/09/pembinaan-dan-penyerahan-sk-beasiswa-s1-baznas/"
-                                    class="btn btn-next">Selengkapnya</a>
+                                    class="btn btn-next" target="blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
@@ -159,7 +159,7 @@
         <center>
             <div class="tombol">
                 <center>
-                    <a href="blog.html" class="btn btn-next">Berita Lainnya</a>
+                    <a href="blog" class="btn btn-next">Berita Lainnya</a>
                 </center>
             </div>
         </center>

@@ -100,4 +100,6 @@ Running Vite (Support CSS and JS)
 2. ./vendor/bin/sail npm run dev
 
 Storage Link (For Image and Others)
-1. ./vendor/bin/sail artisan storage:link
+1. ./vendor/bin/sail artisan storage:link 
+
+gunakan terminal baru

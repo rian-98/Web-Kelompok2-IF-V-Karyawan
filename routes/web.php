@@ -9,3 +9,15 @@ Route::get('/', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/blog2', function () {
+    return view('blog2');
+});
+
+Route::get('/blog3', function () {
+    return view('blog3');
+});
