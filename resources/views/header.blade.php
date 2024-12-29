@@ -13,7 +13,7 @@
                 <a class="navbar-brand" href="https://maps.app.goo.gl/dhpq7kBqmRkPsRoR9" target="_blank">
                     <img src="storage/img/maps.png" alt="" width="25" height="25">Maps
                 </a>
-                <a class="navbar-brand" href="https://www.youtube.com/@sttcipasung4945" target="_blank">
+                <a class="navbar-brand" href="https://www.youtube.com/@sttcipasung" target="_blank">
                     <img src="storage/img/yt.png" alt="" width="25" height="25">Youtube
                 </a>
                 <a class="navbar-brand" href="https://www.facebook.com/sttcipasung" target="_blank">
@@ -109,7 +109,7 @@
                                 Tautan
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="blog.html">Blog Kampus</a></li>
+                                <li><a class="dropdown-item" href="blog">Blog Kampus</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>

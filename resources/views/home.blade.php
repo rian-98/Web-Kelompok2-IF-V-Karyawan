@@ -113,7 +113,7 @@
                                 mengundang...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/10/alumni-stt-cipasung-meraih-penghargaan-sebagai-peserta-dan-capstone-terbaik-baparekraf-digital-talent/"
-                                    class="btn btn-next" target="blank">Selengkapnya</a>
+                                    class="btn btn-next" target="_blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
@@ -130,7 +130,7 @@
                                 dihadiri...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/10/wisuda-angkatan-2020-sekolah-tinggi-teknologi-cipasung/"
-                                    class="btn btn-next" target="blank">Selengkapnya</a>
+                                    class="btn btn-next" target="_blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
@@ -147,7 +147,7 @@
                                 cipasung. Ada 12 kampus yang terdata sebagai...</p>
                             <div class="tombol">
                                 <a href="https://sttcipasung.ac.id/2024/09/pembinaan-dan-penyerahan-sk-beasiswa-s1-baznas/"
-                                    class="btn btn-next" target="blank">Selengkapnya</a>
+                                    class="btn btn-next" target="_blank">Selengkapnya</a>
                             </div>
                         </center>
                     </div>
