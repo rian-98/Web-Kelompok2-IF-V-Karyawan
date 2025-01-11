@@ -153,6 +153,7 @@
             <div class="container status">
                 <div class="col-md-12 text-center">
                     <h2>Status Sekolah Tinggi Teknologi Cipasung</h2>
+                    <br>
                     <p class="text-muted" style="text-align: justify;">
                         STTC berstatus sebagai perguruan tinggi swasta yang terakreditasi. Kami telah mendapatkan pengakuan
                         dari
@@ -171,6 +172,8 @@
                 </div>
             </div>
         </main>
+        <br>
+        <br>
         <br>
         <br>
         <br>

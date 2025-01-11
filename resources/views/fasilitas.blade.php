@@ -151,7 +151,7 @@
         <main>
 
 
-            <div class="kolom">
+            <div class="container">
                 <li class="nav-item dropdown">
                     <a class="nav-link active" href="fasilitas.html" id="navbarDropdown" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
@@ -159,32 +159,42 @@
                             <br>
                             <br>
 
-                            <h1>Fasilitas</h1>
-                            <div class="wrapper">
+                            <center>
+                                <h1>Fasilitas</h1>
+                            </center>
+                            <div class="container">
                                 <div class="text-box">
-                                    <img src="assets/img/Aula Kampus.jpg" width="200px" alt="">
+
                                     <h2>Aula Kampus</h2>
+                                    <img src="https://sttcipasung.ac.id/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-01-at-15.36.31-1024x675.jpeg"
+                                        width="200px" alt="">
                                     <p>Fasilitas aula serbaguna di Sekolah Tinggi Teknologi Cipasung adalah tempat yang
                                         sederhana namun fungsional, yang mendukung berbagai kegiatan akademik dan
                                         non-akademik. Ruangan ini memberikan fleksibilitas bagi mahasiswa dan staf STTC
                                         untuk mengadakan berbagai acara yang berkontribusi pada kehidupan kampus.</p>
                                     <br>
                                     <br>
-                                    <img src="assets/img/Mesjid.jpg" width="200px" alt="">
+
                                     <h2>Tempat ibadah</h2>
+                                    <img src="https://sttcipasung.ac.id/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-10-at-12.31.27-768x1024.jpeg"
+                                        width="200px" alt="">
                                     <p>Di lingkungan STTC juga terdapat fasilitas ibadah berupa masjid,yang dikelola oleh
                                         mahasiswa/i sekolah tinggi teknologi cipasung.</p>
                                     <br>
                                     <br>
-                                    <img src="assets/img/Lab Komputer.jpg" width="200px" alt="">
+
                                     <h2>Lab Komputer</h2>
+                                    <img src="https://sttcipasung.ac.id/wp-content/uploads/2023/07/lab-1024x576.jpg"
+                                        width="200px" alt="">
                                     <p>Dalam era digital ini, teknologi memainkan peran penting dalam dunia pendidikan.
                                         Laboratorium komputer, atau yang sering disebut lab komputer, menjadi salah satu
                                         aspek utama yang mendukung integrasi teknologi dalam proses belajar-mengajar..</p>
                                     <br>
                                     <br>
-                                    <img src="assets/img/Kantin.jpg" width="200px" alt="">
+
                                     <h2>Kantin</h2>
+                                    <img src="https://www.uptsmpn24gresik.sch.id/asset/foto_statis/dfgfgfgfhhhjj.jpg"
+                                        width="200px" alt="">
                                     <p>Kantin adalah salah satu fasilitas yang terdapat di Kampus Sekolah Tinggi Teknologi
                                         Cipasung, kantin ini menyediakan makanan dan minuman, kantin sttc dikelola oleh Unit
                                         Kegiatan Mahasiswa (UKM).</p>
@@ -192,8 +202,10 @@
                                     <br>
                                     <br>
                                     <br>
-                                    <img src="assets/img/Lapang Voly.jpg" width="200px" alt="">
+
                                     <h2>Sarana Olahraga</h2>
+                                    <img src="https://sttcipasung.ac.id/wp-content/uploads/2023/07/lapangvolly-edited.jpeg"
+                                        width="200px" alt="">
                                     <p>Fasilitas olahraga juga dapat dimanfaatkan oleh para mahasiswa/i di STTC,memang belum
                                         semua sarana olahraga yang tersedia dapat dijumpai di STTC,hanya baru lapang voly
                                         saja yang tersedia.</p>
